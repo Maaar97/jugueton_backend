@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "name": "CASITA JARDIN",
+            "brand": "Koala",
+            "price": "Q 179.99",
+            "link": "https://www.cemaco.com/casita-jardin-koala-1055335/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/456181-1100-1100/1055335_1.jpg?v=637974995498730000"
+        },
+        {
+            "name": "CARPA CASTILLO",
+            "brand": "Koala",
+            "price": "Q 179.99",
+            "link": "https://www.cemaco.com/carpa-castillo-koala-1055339/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/456177-1100-1100/1055339_1.jpg?v=637974995306330000"
+        },
+        {
+            "name": "TP INFERNO CRUSHER",
+            "brand": "",
+            "price": "Q 139.99",
+            "link": "https://www.cemaco.com/tp-inferno-crusher-1024793/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/374582-1100-1100/1024793_1.jpg?v=637974876467770000"
+        },
+        {
+            "name": "BELLA VESTIDO MÁGICO",
+            "brand": "Hasbro",
+            "price": "Q 299.99",
+            "link": "https://www.cemaco.com/dpr-fd-spin-and-switch-belle-hasbro-1049884/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/321190-1100-1100/1049884_1.jpg?v=637974967511500000"
+        },
+        {
+            "name": "SET DE HERRAMIENTAS PEQUE",
+            "brand": "Winfun",
+            "price": "Q 160.99",
+            "link": "https://www.cemaco.com/winfun-set-de-herramientas-peque-1027328/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/295273-1100-1100/1027328_1.jpg?v=637974886250570000"
+        },
+        {
+            "name": "PELOTA FUZZY 40 CM NARANJA NEÓN",
+            "brand": "Koala",
+            "price": "Q 59.99",
+            "link": "https://www.cemaco.com/pelota-fuzzy-40-cm-naranja-neon-koala-992931/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/360070-1100-1100/992931_1.jpg?v=637974760954400000"
+        }
+    ]
+}

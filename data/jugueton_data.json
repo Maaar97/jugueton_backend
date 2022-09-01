@@ -1,0 +1,256 @@
+{
+    "logos": {
+        "cemaco": "https://drive.google.com/uc?export=view&id=1D4UMTFGeAO8uWU3r9gsDmnjQLoAtY7ik",
+        "jugueton": "https://drive.google.com/uc?export=view&id=1LjWl9QK324N89DKxtQx3AapurE_JhQp5",
+        "bebeJugueton": "https://drive.google.com/uc?export=view&id=1OPmyQdT8Y4yyA6gYZa57WI1aM6eyyxbk",
+        "empresaB": "https://drive.google.com/uc?export=view&id=1o_eKGSrMVrRaOW_D1gqlFqjEsOYkbCL8"
+    },
+    "banners": {
+        "mainBanner": {
+            "desktopImage": "https://drive.google.com/uc?export=view&id=179RWIue74hQo6FSSNVqwmNWTxmRSBxlV",
+            "mobileImage": "https://drive.google.com/uc?export=view&id=1nS1khGv4mndleXBcaOVWrgUhbxq60Y6s",
+            "link": "https://www.cemaco.com/c-juguetes"
+        },
+        "descuentosBanner": {
+            "desktopImage": "https://drive.google.com/uc?export=view&id=1XvbJ4QH95OIR4L9E9hdZRE-EOPapYl2H",
+            "mobileImage": "https://drive.google.com/uc?export=view&id=1p4Jp8n-oI94UAgnLUdvWl3ieC2Ud21vN",
+            "link": "https://www.cemaco.com/1961?map=productClusterIds"
+        },
+        "construccionBanner": {
+            "desktopImage": "https://drive.google.com/uc?export=view&id=1RBJ0mijCjbes7KmltbfsQUell4wRyitt",
+            "mobileImage": "https://drive.google.com/uc?export=view&id=1E28I8DPGOT5sxKDi23mMZnOKFuYX_yGB",
+            "link": "https://www.cemaco.com/s/juguetes#lego"
+        },
+        "vehiculosBanner": {
+            "desktopImage": "https://drive.google.com/uc?export=view&id=1UiP1Th7trGXGZD3fvZ0Oravb7AwXJQhG",
+            "mobileImage": "https://drive.google.com/uc?export=view&id=1RHcp3Mjc_lWAZjLevZ9AgCvDoYqyrbeE",
+            "link": "https://www.cemaco.com/s/juguetes#vehiculospistas"
+        },
+        "bebeBanner": {
+            "desktopImage": "https://drive.google.com/uc?export=view&id=1ev76uh6rZLbTVJMEDxTPXGk5tn2CRdpc",
+            "mobileImage": "https://drive.google.com/uc?export=view&id=1uYx366ldXM4x3Hv9DtyQ1ZyT3iQgVB-D",
+            "link": "https://www.cemaco.com/bebe-jugueton"
+        },
+        "compraOnlineBanner": {
+            "desktopImage": "https://drive.google.com/uc?export=view&id=1t19TsjH--UgHBN6T9a5ff6e-e80QLabc",
+            "mobileImage": "https://drive.google.com/uc?export=view&id=155cfou3-DnEGGpTUNxENGDQ2QvAMzkC7",
+            "link": "https://www.cemaco.com/autoservicio"
+        }
+    },
+    "highlights": [
+        {
+            "title": "Al aire libre",
+            "description": "Resbaladeros, columpios, triciclos para un verano divertido.",
+            "image": "https://drive.google.com/uc?export=view&id=1DhGdZeaiQZIeQ5tMbB-dTzEoZT_pwee-",
+            "link": "#"
+        },
+        {
+            "title": "Velocidad acuática",
+            "description": "Lanzadores y divertidos juegos de agua",
+            "image": "https://drive.google.com/uc?export=view&id=1mEWJplEao4thy7oMCu1umQC45lwDwtpM",
+            "link": "#"
+        },
+        {
+            "title": "Juegos de mesa",
+            "description": "Monopoly, UNO, Jenga para divertirte en familia",
+            "image": "https://drive.google.com/uc?export=view&id=1kJOhrYsZC17GPmtIRLLST1yBGXlKf6LA",
+            "link": "#"
+        },
+        {
+            "title": "Ofertas exclusivas",
+            "description": "Diviértete con estas ofertas exclusivas en línea",
+            "image": "https://drive.google.com/uc?export=view&id=11Fhh3PdLkwnYNZWZQwsgWFA1k4rEjC2P",
+            "link": "#"
+        }
+    ],
+    "carousels": {
+        "mainCarousel": {
+            "title": "Diversión bajo el sol",
+            "subtitle": "Disfruta el verano",
+            "productType": "summer",
+            "desktopImage": "https://drive.google.com/uc?export=view&id=10IsNa3ZQrN1Dc-GyKYzWZGwT0F0nKbZT",
+            "mobileImage": "https://drive.google.com/uc?export=view&id=1bGWYDrZnBGyYIW9pkUmepWi7DMk3hmaj"
+        },
+        "ofertasCarousel": {
+            "title": "Los mejores descuentos",
+            "subtitle": "Hasta 70% de descuento",
+            "productType": "sale",
+            "desktopImage": "https://drive.google.com/uc?export=view&id=1OavItmaFJFa080oSIPgB7lqmSL7h4Jzh",
+            "mobileImage": "https://drive.google.com/uc?export=view&id=19pIJMQtxzT4HUHlHzX1lwlOnkqftA2dh"
+        }
+    },
+    "sections": {
+        "munecasSection": {
+            "label": "",
+            "labelColor": "",
+            "columns": 4,
+            "items": [
+                {
+                    "cover": true,
+                    "desktopImage": "https://drive.google.com/uc?export=view&id=1pYG9nNNSpEUMe2YaUGf4M7oGYzQFzdcS",
+                    "mobileImage": "https://drive.google.com/uc?export=view&id=1fCzABuTpvhJ8dch-trfijtx0WwuYK47b",
+                    "link": "https://www.cemaco.com/s/juguetes#muniecas"
+                },
+                {
+                    "image": "https://drive.google.com/uc?export=view&id=1Greh1zWltx3lMpcP42vmjigl6NL9v9FB",
+                    "brand": "https://drive.google.com/uc?export=view&id=1jvYdaRdS6RixXWIlMkfXFV43r5V0o94Y",
+                    "link": "https://www.cemaco.com/m/barbie"
+                },
+                {
+                    "image": "https://drive.google.com/uc?export=view&id=1mF7-6MHYYjO2uAUycdj6itAIJAbdaM3Y",
+                    "brand": "https://drive.google.com/uc?export=view&id=1NSVyCxRhVfxRvqq2DyHJVE_Bg14vIkgP",
+                    "link": "https://www.cemaco.com/m/littlemommy"
+                },
+                {
+                    "image": "https://drive.google.com/uc?export=view&id=1o_rhu5bxYpoh9OFfGiGmHqgnjcXCFCBK",
+                    "brand": "https://drive.google.com/uc?export=view&id=1WRXJw2o7K9Hg-kNB7iT67qyLWFvebPlJ",
+                    "link": "https://www.cemaco.com/m/babyalive"
+                }
+            ]
+        },
+        "figurasSection": {
+            "label": "Despierta tu imaginación",
+            "labelColor": "#9C211A",
+            "columns": 4,
+            "items": [
+                {
+                    "cover": true,
+                    "desktopImage": "https://drive.google.com/uc?export=view&id=1MpPJlojaLgk5qya9REByFbWTFOirE-dE",
+                    "mobileImage": "https://drive.google.com/uc?export=view&id=1E4X3Rr__yDCUIBDHP92uTPVxXwpf0Kov",
+                    "link": "https://www.cemaco.com/s/juguetes#figurasaccion"
+                },
+                {
+                    "category": "Súper héroes",
+                    "image": "https://drive.google.com/uc?export=view&id=1fxDmHbTlZb-kQpaQVLUMz0z4msJZpH3D",
+                    "link": "https://www.cemaco.com/juguetes/figuras-de-accion/figuras-de-accion/"
+                },
+                {
+                    "category": "Dinosaurios",
+                    "image": "https://drive.google.com/uc?export=view&id=1K88XLn75aTn4k-cK4Ebkf0nWMgNGUwKC",
+                    "link": "https://www.cemaco.com/juguetes/figuras-de-accion/animales-y-dinosaurios"
+                },
+                {
+                    "category": "Robots",
+                    "image": "https://drive.google.com/uc?export=view&id=1o5ZNO2G2NSKs7ew_IkR8EkGbwqZ8kInA",
+                    "link": "https://www.cemaco.com/juguetes/figuras-de-accion/robots"
+                }
+            ]
+        },
+        "cemacoSection": {
+            "label": "Importante para ti",
+            "columns": 3,
+            "items": [
+                {
+                    "image": "https://drive.google.com/uc?export=view&id=1jwwtzAlaMa8K1QyGIi5Y02nFH8UIfP_c",
+                    "description": "Entregamos tus compras en línea en todo el país en 48 horas en la capital y hasta en 72 horas en el interior del país.",
+                    "height": "150px",
+                    "link": "https://www.cemaco.com/areasdenocobertura"
+                },
+                {
+                    "image": "https://drive.google.com/uc?export=view&id=19Jh0C29soUTi3abm6iBqwfPhlLHNf5Hr",
+                    "description": "Compra en línea, selecciona tu tienda más cercana y al llegar recibe tu producto en tu auto, ¡sin contacto y sin bajarte!",
+                    "height": "150px",
+                    "link": "https://www.cemaco.com/autoservicio"
+                },
+                {
+                    "image": "https://drive.google.com/uc?export=view&id=1W7If2mgdFGUGBvUNHm7p4iHc0BJ1hTWS",
+                    "description": "Nuestra misión es ser el lugar más seguro para trabajar y comprar. Estamos tomando medidas importantes para tu seguridad y la de nuestro equipo.",
+                    "height": "150px",
+                    "link": "https://www.cemaco.com/prevencion"
+                }
+            ]
+        }
+    },
+    "departments": [
+        {
+            "name": "Verano",
+            "image": "https://drive.google.com/uc?export=view&id=1fc2gjGS5CvXufhmEmwLYThgfdhI5_NoP",
+            "link": "https://www.cemaco.com/jugueton"
+        },
+        {
+            "name": "Fiesta de grandes descuentos",
+            "image": "https://drive.google.com/uc?export=view&id=1gGHAHJsr-Ua1OzIpPVEYwtXfh-j67JyD",
+            "link": "https://www.cemaco.com/1961?map=productClusterIds"
+        },
+        {
+            "name": "Ofertas exclusivas",
+            "image": "https://drive.google.com/uc?export=view&id=1K2BIJG4C_yWYGXi6yrwgOIYegRUoRO7u",
+            "link": "https://www.cemaco.com/ofertasdelasemanajugueton"
+        },
+        {
+            "name": "Muñecas",
+            "image": "https://drive.google.com/uc?export=view&id=1pHbJnSa83PehZCqVyjFQ5nDZvTKz6B5M",
+            "link": "https://www.cemaco.com/s/juguetes#muniecas"
+        },
+        {
+            "name": "Pre-Escolar",
+            "image": "https://drive.google.com/uc?export=view&id=1Be-FRZ9k4cfS2g-T0kIaV1gV-0kZuEyB",
+            "link": "https://www.cemaco.com/s/juguetes#preescolar"
+        },
+        {
+            "name": "Lego y construcción",
+            "image": "https://drive.google.com/uc?export=view&id=1PfjUnZpp_yPQDeKuczJ2_IAaVF2yIHOa",
+            "link": "https://www.cemaco.com/s/juguetes#lego"
+        },
+        {
+            "name": "Figuras de acción",
+            "image": "https://drive.google.com/uc?export=view&id=1T_tVRa6RxOilDXNIu_v90hQSdZQLrb0U",
+            "link": "https://www.cemaco.com/s/juguetes#figurasaccion"
+        },
+        {
+            "name": "Vehículos y pistas",
+            "image": "https://drive.google.com/uc?export=view&id=1UerkQ71-VaOrwcI3R2rJaR15l6cgPGT6",
+            "link": "https://www.cemaco.com/s/juguetes#vehiculospistas"
+        },
+        {
+            "name": "Juegos de mesa y rompecabezas",
+            "image": "https://drive.google.com/uc?export=view&id=1d27SLNTDuYlfNX_GQeC7hC75OdS03g7A",
+            "link": "https://www.cemaco.com/s/juguetes#juegosmesa"
+        },
+        {
+            "name": "Arte y manualidades",
+            "image": "https://drive.google.com/uc?export=view&id=1LhwSNS79XPH1JUDxKPVJFIs1SJFNB9Wm",
+            "link": "https://www.cemaco.com/s/juguetes#artemanualidades"
+        },
+        {
+            "name": "Juegos de exterior",
+            "image": "https://drive.google.com/uc?export=view&id=1o0kBvC1ErEHswOCghO5bXc7ofouoghFi",
+            "link": "https://www.cemaco.com/s/juguetes#juegosexterior"
+        },
+        {
+            "name": "Deportes",
+            "image": "https://drive.google.com/uc?export=view&id=13iacJPvSz6B7NiyfWASffnLgxRIepnPU",
+            "link": "https://www.cemaco.com/s/juguetes#deportes"
+        },
+        {
+            "name": "Videojuegos y consolas",
+            "image": "https://drive.google.com/uc?export=view&id=1ccM8VRgfkbR8He7XpQJXpvEJ8zx7Pda6",
+            "link": "https://www.cemaco.com/s/juguetes#videojuegos"
+        },
+        {
+            "name": "Cuando sea grande",
+            "image": "https://drive.google.com/uc?export=view&id=13-FFUBQhQux-iu5iZp0_NrsFDWD3dIu-",
+            "link": "https://www.cemaco.com/s/juguetes#cuandoseagrande"
+        },
+        {
+            "name": "Peluches",
+            "image": "https://drive.google.com/uc?export=view&id=1851voA6tim2oGzfIXsFLhYKWH1vWXukA",
+            "link": "https://www.cemaco.com/s/juguetes#peluches"
+        },
+        {
+            "name": "Electrónicos",
+            "image": "https://drive.google.com/uc?export=view&id=12FFaa_4EoWl7BNYZFxKz62TYc4R-7ksd",
+            "link": "https://www.cemaco.com/s/juguetes#electronicos"
+        },
+        {
+            "name": "Bebés",
+            "image": "https://drive.google.com/uc?export=view&id=1z6NMBs5Y5UEstglD7OEOHWytfrQqWubh",
+            "link": "https://www.cemaco.com/s/juguetes#bebes"
+        },
+        {
+            "name": "Ver Todo",
+            "image": "https://drive.google.com/uc?export=view&id=1Z1tMhMMr5wjKkIDgXje4KjXAgq_wDtnx",
+            "link": "https://www.cemaco.com/c-juguetes"
+        }
+    ]
+}
