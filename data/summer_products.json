@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "name": "MESA DE JUEGO GAMEPOWER 5 EN 1",
+            "brand": "Gamepower",
+            "price": "Q 1,679.0",
+            "link": "https://www.cemaco.com/mesa-de-juego-gamepower-5-en-1-gamepower-1031681/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/319553-1100-1100/1031681_1.jpg?v=637974899135470000"
+        },
+        {
+            "name": "MONOPOLY CLÁSICO",
+            "brand": "Hasbro Gaming",
+            "price": "Q 174.95",
+            "link": "https://www.cemaco.com/monopoly-clasico-646028/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/390346-1100-1100/646028_1.jpg?v=637974532923730000"
+        },
+        {
+            "name": "FIGURA TITAN",
+            "brand": "Spider-man",
+            "price": "Q 149.99",
+            "link": "https://www.cemaco.com/spd-titan-spider-man-1037749/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/351583-1100-1100/1037749_1.jpg?v=637974915731570000"
+        },
+        {
+            "name": "CASA DE JUEGOS MÁGICA",
+            "brand": "Curver",
+            "price": "Q 1,999.0",
+            "link": "https://www.cemaco.com/casa-magic-play-curver-1056580/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/464169-1100-1100/1056580_1.jpg?v=637975001304900000"
+        },
+        {
+            "name": "COZY TRUCK PRINCESA",
+            "brand": "Little Tikes",
+            "price": "Q 1,299.00",
+            "link": "https://www.cemaco.com/little-tikes-cozy-truck-princesa-889746/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/356512-1100-1100/889746_1.jpg?v=637974611477770000"
+        },
+        {
+            "name": "JUEGO DE CARTAS UNO",
+            "brand": "Uno",
+            "price": "Q 59.95",
+            "link": "https://www.cemaco.com/uno-juego-de-cartas-677440/p",
+            "image": "https://cemacogt.vteximg.com.br/arquivos/ids/324025-1100-1100/677440_1.jpg?v=637974537205300000"
+        }
+    ]
+}
