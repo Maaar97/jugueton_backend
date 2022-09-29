@@ -2,7 +2,7 @@
     "logos": {
         "cemaco": "https://drive.google.com/uc?export=view&id=1D4UMTFGeAO8uWU3r9gsDmnjQLoAtY7ik",
         "jugueton": "https://drive.google.com/uc?export=view&id=1LjWl9QK324N89DKxtQx3AapurE_JhQp5",
-        "bebeJugueton": "https://drive.google.com/uc?export=view&id=1OPmyQdT8Y4yyA6gYZa57WI1aM6eyyxbk",
+        "bebeJugueton": "https://drive.google.com/uc?export=view&id=1fSBDE04J18HDQxGdFvKhJ25agM5mxxoM",
         "empresaB": "https://drive.google.com/uc?export=view&id=1o_eKGSrMVrRaOW_D1gqlFqjEsOYkbCL8"
     },
     "banners": {
@@ -81,8 +81,8 @@
     },
     "sections": {
         "munecasSection": {
-            "label": "",
-            "labelColor": "",
+            "label": "Un mundo de diversión",
+            "labelColor": "#BE277D",
             "columns": 4,
             "items": [
                 {
